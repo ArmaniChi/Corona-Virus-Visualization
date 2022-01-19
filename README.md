@@ -6,6 +6,7 @@ Taking a Corona virus data set and manipulating it to visualize the number of co
 * Python
 * Pandas
 * Matplotlib
+* Seaborn
 
 ## Usage
 
